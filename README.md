@@ -1,2 +1,2 @@
-# K-nearest-neighbor-application
-K-nearest neighbor application on the credit risk data
+# Classification-model-application-on-credit-risk-data
+K-nearest neighbor model, Ada boost model and kernel knn model were applied.
